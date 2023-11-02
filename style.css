@@ -1,0 +1,32 @@
+
+#p1{
+    color: red;
+}
+    #p2{
+        color: blue; font-style: italic;
+    }
+    #head{
+        color: darkblue; font-size: 130px; font-style: italic; 
+        text-shadow: 5px 5px 7px red
+        
+        
+    }
+    div{
+        color: orange;
+        background-color: crimson;
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        
+    }
+    span{
+        color: blueviolet;
+        background-color: lawngreen;
+        width: 100px;
+        height: 100px;
+        display: inline-block ;
+    }
+    #hidden{
+        color: white;
+        
+    }
